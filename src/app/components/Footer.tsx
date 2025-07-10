@@ -12,13 +12,13 @@ export default function Footer() {
       >
         {/* Footer content */}
         <div className=" bg-white rounded-full flex items-center justify-center w-[50px] hover:bg-gray-200 ">
-          <Link className="   text-white  hover:underline " href="https://github.com/ykapf/GTAV-Radio">
+          <Link className="   text-white  hover:underline " href="https://github.com/diegunther/GTAV-Radio">
             <img src="/github.png" className="w-full h-full inline-block -translate-y-[1px] scale-[1.02]" />
           </Link>
         </div>
         {/* Middle */}
-        <Link className="   text-white  hover:underline " href="https://www.ykapf.com/">
-          @ykapf.
+        <Link className="   text-white  hover:underline " href="https://www.linkedin.com/in/diegunther/">
+          @diegunther.
         </Link>
       </nav>
     </>
